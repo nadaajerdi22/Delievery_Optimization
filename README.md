@@ -1,9 +1,9 @@
-# Delivery Route Optimization (Custom Dataset)
+# Delivery Route Optimization 
 This project uses machine learning techniques to optimize delivery routes based on a custom dataset. The dataset includes client locations, priority levels, and estimated costs. The goal is to identify the most efficient routes for delivery, reducing time and operational costs.
 
 
 ## Dataset
-The custom dataset used in this project contains the following columns:
+The dataset used in this project contains the following columns:
 
 - ClientID: Unique identifier for each client.
 - Latitude: Geographic latitude of the client.
