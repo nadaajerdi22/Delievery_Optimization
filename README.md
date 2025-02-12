@@ -14,6 +14,4 @@ The custom dataset used in this project contains the following columns:
 The project applies machine learning algorithms and optimization techniques, such as the Travelling Salesman Problem (TSP), to find the most efficient routes.
 ## Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-circle&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-circle&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-circle&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=flat-circle&logo=python&logoColor=white)
