@@ -11,5 +11,5 @@ The custom dataset used in this project contains the following columns:
 - Priority: Delivery priority level (high, medium, low).
 - Estimated Cost: Estimated delivery cost.
 ## Methodology
-The project applies machine learning algorithms and optimization techniques, such as the Travelling Salesman Problem (TSP), to find the most efficient routes.
+The project applies machine learning algorithms and optimization techniques, such as the Travelling Salesman Problem (TSP) and Simulated Annealing Algorithm to find the most efficient routes.
 
