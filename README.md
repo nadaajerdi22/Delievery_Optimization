@@ -12,6 +12,4 @@ The custom dataset used in this project contains the following columns:
 - Estimated Cost: Estimated delivery cost.
 ## Methodology
 The project applies machine learning algorithms and optimization techniques, such as the Travelling Salesman Problem (TSP), to find the most efficient routes.
-## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=tokyonight)
